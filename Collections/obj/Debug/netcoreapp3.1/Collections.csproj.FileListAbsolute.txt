@@ -1,0 +1,13 @@
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\zulal\source\repos\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\zulal\source\repos\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
